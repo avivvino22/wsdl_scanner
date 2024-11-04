@@ -4,7 +4,7 @@ This extension actively monitors web requests in your browser, automatically ide
 ## How to install:
 
 1. Open the extension manager (chrome://extensions/)
-2. enable the "Developer mode"
+2. Enable the "Developer mode"
 3. Click on the "Load unpacked" button and select this project folder
 4. Have fun :)
 
